@@ -1,0 +1,1 @@
+To provide few useful methods to manage properties.
